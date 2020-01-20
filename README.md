@@ -1,5 +1,7 @@
 HOW TO USE 
 
+Donwload HyperLedger Fabric Tutorial examples and then >>
+
 ./startFabricMS.sh
 
 cd javascript
